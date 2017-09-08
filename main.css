@@ -1,0 +1,18 @@
+/* Stylesheet for search-engine.html */
+
+img.center {
+  position: relative;
+  display: block;
+  margin: 198px auto 0 auto;
+}
+
+input[type = search-engine] {
+  display: block;
+  margin: 0 auto;
+  border-bottom: rgb(0, 0, 0);
+}
+
+input[type = submit] {
+  display: block;
+  margin: 0 auto;
+}
