@@ -6,13 +6,18 @@ img.center {
   margin: 198px auto 0 auto;
 }
 
+.formwrap {
+  display: flex;
+  justify-content: center;
+
+}
+
 input[type = search-engine] {
   display: block;
-  margin: 0 auto;
+  margin: 10px auto 10px auto;
   border-bottom: rgb(0, 0, 0);
 }
 
 input[type = submit] {
-  display: block;
-  margin: 0 auto;
+  flex-basis: 1;
 }
